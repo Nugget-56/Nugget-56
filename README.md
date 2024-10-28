@@ -1,4 +1,4 @@
-# Hi! I am Aayush:
+# Hi! I am Aayush 👋
 I'm a passionate Software Engineer with a focus on Full-Stack development
 
 Currently I am working on FinBrief: an AI-powered Financial news aggregator
