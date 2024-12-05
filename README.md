@@ -3,6 +3,8 @@ I'm a passionate Software Engineer with a focus on Full-Stack development
 
 Currently I am working on FinBrief: an AI-powered Financial news aggregator
 
+Resume: https://nugget-56.github.io/
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayushsingh56) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Nugget56_) 
 
